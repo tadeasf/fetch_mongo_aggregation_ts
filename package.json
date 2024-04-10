@@ -1,0 +1,15 @@
+{
+  "name": "fetch_mongo_aggregation_ts",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Tadeas Fort",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "mongodb": "^6.5.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  }
+}
